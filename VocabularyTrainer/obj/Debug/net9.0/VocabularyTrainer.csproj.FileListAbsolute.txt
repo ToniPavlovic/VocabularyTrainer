@@ -1,0 +1,14 @@
+D:\Rider\VocabularyTrainer\VocabularyTrainer\bin\Debug\net9.0\VocabularyTrainer.exe
+D:\Rider\VocabularyTrainer\VocabularyTrainer\bin\Debug\net9.0\VocabularyTrainer.deps.json
+D:\Rider\VocabularyTrainer\VocabularyTrainer\bin\Debug\net9.0\VocabularyTrainer.runtimeconfig.json
+D:\Rider\VocabularyTrainer\VocabularyTrainer\bin\Debug\net9.0\VocabularyTrainer.dll
+D:\Rider\VocabularyTrainer\VocabularyTrainer\bin\Debug\net9.0\VocabularyTrainer.pdb
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.AssemblyInfoInputs.cache
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.AssemblyInfo.cs
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.csproj.CoreCompileInputs.cache
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.dll
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\refint\VocabularyTrainer.dll
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.pdb
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\VocabularyTrainer.genruntimeconfig.cache
+D:\Rider\VocabularyTrainer\VocabularyTrainer\obj\Debug\net9.0\ref\VocabularyTrainer.dll
