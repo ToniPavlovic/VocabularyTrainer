@@ -1,7 +1,8 @@
 # Vocabulary Trainer 📚
 
-A simple C# console app to practice German-English vocabulary. 
-Contains CSV File that has 221 word pairs.
+A simple C# console app to practice German-English vocabulary.<br>
+Contains CSV File that has 221 word pairs.<br>
+[Source for word pairs:](https://www.reddit.com/r/German/comments/ohmzgb/heres_a_list_of_700_very_useful_german_words_with/)
 
 ## Features ✨
 
